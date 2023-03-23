@@ -143,10 +143,6 @@ layout: center
     </div>
     <div class="flex flex-col">
       <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Nasce o reinado do jQuery</h3>
-      <p class="text-base font-normal text-gray-500 dark:text-gray-400 m-0">
-        Surge para ajudar os desenvolvedores a interagirem mais facilmente com o
-        DOM de todos os navegadores.
-      </p>
     </div>
   </li>
   <li class="mb-10 ml-4 list-none flex flex-col gap-y-2">
@@ -156,11 +152,6 @@ layout: center
     </div>
     <div class="flex flex-col gap-y-1">
       <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Surge o Angular.js</h3>
-      <p class="text-base font-normal text-gray-500 dark:text-gray-400 m-0">
-        Criado pelo Google para desenvolvimento de aplicações no padrão MVC
-        (model, view, controller) que permitia o desenvolvimento de aplicações
-        robustas.
-      </p>
     </div>
   </li>
   <li class="mb-10 ml-4 list-none flex flex-col gap-y-2">
@@ -170,11 +161,6 @@ layout: center
     </div>
     <div class="flex flex-col gap-y-1">
       <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Surgimento do React.JS</h3>
-      <p class="text-base font-normal text-gray-500 dark:text-gray-400 m-0">
-        Surge da necessidade ainda maior de organizar e contruir aplicações
-        ainda mais interativas que fossem performáticas, de fácil manutenção e
-        escalabilidade.
-      </p>
     </div>
   </li>
 </ol>
