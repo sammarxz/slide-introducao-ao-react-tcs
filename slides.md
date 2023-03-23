@@ -4,10 +4,10 @@ highlighter: shiki
 theme: default
 lineNumbers: true
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## Introdução ao ReactJS
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Apresentação criada para a equipe de People&Science da TCS
+  por: @sammarxz
 css: unocss
 ---
 
@@ -237,7 +237,7 @@ layout: center
 
 # SPA (Single Page Application)
 
-<img src="assets/spa.png">
+<img src="/spa.png">
 
 ---
 layout: center
@@ -288,12 +288,12 @@ layout: center
 
 ---
 layout: image
-image: assets/arquitetura.png
+image: /arquitetura.png
 ---
 
 ---
 layout: image
-image: assets/hibrido.png
+image: /hibrido.png
 ---
 
 ---
@@ -359,7 +359,7 @@ reflow que o navegador deve executar para renderizar as alterações são execut
 
 ---
 
-<img src="assets/virtual-dom.png" class="max-h-full mx-auto">
+<img src="/virtual-dom.png" class="max-h-full mx-auto">
 
 ---
 layout: center
