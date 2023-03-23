@@ -3,6 +3,7 @@ layout: cover
 highlighter: shiki
 theme: default
 lineNumbers: true
+download: true
 info: |
   ## Introdução ao ReactJS
 
