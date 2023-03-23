@@ -121,7 +121,7 @@ layout: center
   - Utilizada para construir UI rapidamente 
   - A ferramenta mais popular atualmente
   - Desenvolvida pelo Facebook em 2013
-  - Usa `components` reutilizáveis
+  - Ecossistema rico
   </div>
 </div>
 
